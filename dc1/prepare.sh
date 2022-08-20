@@ -1,4 +1,3 @@
-#!/bin/bash
 apt update 
 apt upgrade -y
 apt install wget sudo nano -y
